@@ -10,7 +10,7 @@ root.render(
   <React.StrictMode>
     <BrowserRouter>
       <Routes>
-        {/* * allows nested routes */}
+        {/* * symbole allows nested routes */}
         <Route path='/*' element={<App />} />
       </Routes>
     </BrowserRouter>
